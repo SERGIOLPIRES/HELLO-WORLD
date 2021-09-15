@@ -1,0 +1,4 @@
+  
+[ usuário ]
+	email  =  lopepir@gmail.com
+	nome  =  Sergio Lopes Pires
